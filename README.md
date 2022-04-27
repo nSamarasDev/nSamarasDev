@@ -14,11 +14,7 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" hieght="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  alt="HTML5 logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  alt="CSS3 logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"  alt="bootstrap logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg"  alt="Developer Logo" width="50" hieght="50"/> <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="Git logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"  alt="Google Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  alt="Hquery Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="Node Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  alt="Node Package Manager Logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  alt="PostGreSQL logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" hieght="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  alt="Redux Logo" width="50" hieght="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  alt="Express Logo" width="50" hieght="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VSCode Logo" width="50" hieght="50"/> 
-<img
-  src="https://avatars.githubusercontent.com/u/17888862?s=200&v=4"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px; align: center;">
+![Alt text](fileLink/images/17888862.png "Optional title")
 
 
 
