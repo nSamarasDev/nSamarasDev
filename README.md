@@ -15,8 +15,13 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  alt="Express Logo" width="50" hieght="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VSCode Logo" width="50" hieght="50"/>
 
-<img src="https://avatars.githubusercontent.com/u/17888862?s=200&v=4" alt="Alt text" title="Optional title">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGZTtlRz5H7g22kdRzcx7T7DJvGGK1q2uAgJ2YBPvgbcYksmj50k9cW4xOS2MDL-v3WQ&usqp=CAU" alt="Alt text" title="Optional title">
+<!-- <img src="https://avatars.githubusercontent.com/u/17888862?s=200&v=4" alt="Alt text" title="Optional title"> -->
+<img
+  src="https://avatars.githubusercontent.com/u/17888862?s=200&v=4"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 
 
