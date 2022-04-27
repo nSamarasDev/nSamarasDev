@@ -20,7 +20,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
   src="https://avatars.githubusercontent.com/u/17888862?s=200&v=4"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 
 
