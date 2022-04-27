@@ -15,7 +15,7 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  alt="Express Logo" width="50" hieght="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VSCode Logo" width="50" hieght="50"/>
 
-
+<img src="https://avatars.githubusercontent.com/u/17888862?s=200&v=4" alt="Alt text" title="Optional title">
 
 
 
