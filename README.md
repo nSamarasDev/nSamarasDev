@@ -18,7 +18,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-origina
 src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  alt="Express Logo" width="50" hieght="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VSCode Logo" width="50" hieght="50"/> <img src="https://github.com/nSamarasDev/fileLink/blob/main/images/2635465.jpg" alt="VSCode Logo" width="50" hieght="50" />  <img                                           src="https://github.com/nSamarasDev/fileLink/blob/main/images/2635475.png" alt="VSCode Logo" width="50" hieght="50" />  <img
 src="https://github.com/nSamarasDev/fileLink/blob/main/images/AMD-sticker.jpg" alt="VSCode Logo" width="50" hieght="50" /> <img
-src="https://github.com/nSamarasDev/fileLink/blob/main/images/imagesI7.jpg" alt="VSCode Logo" width="50" hieght="50" />                                                                                                                                
+src="https://github.com/nSamarasDev/fileLink/blob/main/images/imagesI7.jpg" alt="VSCode Logo" width="50" hieght="50" /> <img
+src="https://github.com/nSamarasDev/fileLink/blob/main/images/logTech_sticker.jpg" alt="VSCode Logo" width="50" hieght="50" />                                                                                                                             
                                                                                                                                 
                                                                                                                                      
                                                                                                                                              
