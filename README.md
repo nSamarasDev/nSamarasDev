@@ -1,4 +1,4 @@
-### Hi there, I am Nicholas Samaras
+### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I am Nicholas Samaras
 
 ---
 
