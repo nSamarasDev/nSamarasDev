@@ -27,7 +27,7 @@ src="https://github.com/nSamarasDev/fileLink/blob/main/images/appleLogo.jpg" alt
 src="https://github.com/nSamarasDev/fileLink/blob/main/images/qualcom865Logo.jpg" alt="VSCode Logo" width="50" hieght="50" />
 
  <img
-src="https://github.com/nSamarasDev/fileLink/blob/main/images/qualcom865Logo.jpg" alt="VSCode Logo" width="50" hieght="50" />
+src="https://github.com/nSamarasDev/fileLink/blob/main/images/samsungExynosSocLogo.jpg" alt="VSCode Logo" width="50" hieght="50" />
 
                                                                                                                        
                                                                                                                                 
