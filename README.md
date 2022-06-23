@@ -24,8 +24,8 @@ src="https://github.com/nSamarasDev/fileLink/blob/main/images/logTech_sticker.jp
                                                                                                                 <img
 src="https://github.com/nSamarasDev/fileLink/blob/main/images/appleLogo.jpg" alt="VSCode Logo" width="50" hieght="50" />
 
-                                                                                                                    <img
-src="https://github.com/nSamarasDev/fileLink/blob/main/images/qualcom865Logo.jpg" alt="VSCode Logo" width="50" hieght="50" />
+                                                                                                                        <img
+src="https://github.com/nSamarasDev/fileLink/blob/main/images/qualcom865Logo.jpg" alt="VSCode Logo" width="50" hieght="50" />                                                                                                              
                                                                                                                                 
                                                                                                                                      
                                                                                                                                              
