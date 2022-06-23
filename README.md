@@ -20,14 +20,15 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
 src="https://github.com/nSamarasDev/fileLink/blob/main/images/AMD-sticker.jpg" alt="VSCode Logo" width="50" hieght="50" /> <img
 src="https://github.com/nSamarasDev/fileLink/blob/main/images/imagesI7.jpg" alt="VSCode Logo" width="50" hieght="50" /> <img
 src="https://github.com/nSamarasDev/fileLink/blob/main/images/logTech_sticker.jpg" alt="VSCode Logo" width="50" hieght="50" /> <img
-                                                                                                                               src="https://github.com/nSamarasDev/fileLink/blob/main/images/windowsIcons.png" alt="VSCode Logo" width="50" hieght="50" /> 
-                                                                                                                <img
-src="https://github.com/nSamarasDev/fileLink/blob/main/images/appleLogo.jpg" alt="VSCode Logo" width="50" hieght="50" />
- <img
-src="https://github.com/nSamarasDev/fileLink/blob/main/images/qualcom865Logo.jpg" alt="VSCode Logo" width="50" hieght="50" />
+src="https://github.com/nSamarasDev/fileLink/blob/main/images/windowsIcons.png" alt="VSCode Logo" width="50" hieght="50" /> <img                                       src="https://github.com/nSamarasDev/fileLink/blob/main/images/appleLogo.jpg" alt="VSCode Logo" width="50" hieght="50" />  <img                                         src="https://github.com/nSamarasDev/fileLink/blob/main/images/qualcom865Logo.jpg" alt="VSCode Logo" width="50" hieght="50" />  <img                                     src="https://github.com/nSamarasDev/fileLink/blob/main/images/samsungExynosSocLogo.jpg" alt="VSCode Logo" width="50" hieght="50" />  <img                 
+                                                                                                                               
+                                                                                                                     
 
- <img
-src="https://github.com/nSamarasDev/fileLink/blob/main/images/samsungExynosSocLogo.jpg" alt="VSCode Logo" width="50" hieght="50" />
+
+
+
+
+
 
                                                                                                                        
                                                                                                                                 
