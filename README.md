@@ -4,6 +4,8 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicholas-samaras-software-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-samaras/?trk=profile-badge">Nicholas Samaras (he/him)</a></div>
 
+Hi Everyone that watches my repositories, I am currently cleaning up my github pages and some of my repositories are down or are in the process of being taken down  and updated...
+Check back.  These repositories will be updated and changed.
 
 Software engineer with experience using PostgreSQL, Node, Express, React to build web apps. Background in management of high rise window cleaning companies, and project coordination. I'm not afraid to ask "why" or "is this the best way", and I thrive when I can understand the end goal while diving into the details.
 
