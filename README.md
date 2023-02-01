@@ -6,6 +6,7 @@
 
 Hi Everyone that watches my repositories, I am currently cleaning up my github pages and some of my repositories are down or are in the process of being taken down  and updated...
 Check back.  These repositories will be updated and changed.
+n.saamaras4@outlook.com
 
 Software engineer with experience using PostgreSQL, Node, Express, React to build web apps. Background in management of high rise window cleaning companies, and project coordination. I'm not afraid to ask "why" or "is this the best way", and I thrive when I can understand the end goal while diving into the details.
 
