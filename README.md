@@ -1,4 +1,4 @@
-### Hi there, I am Nicholas Samaras
+### Hi there 🖐🏽, I am Nicholas Samaras
 
 ---
 
